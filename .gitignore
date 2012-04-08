@@ -1,0 +1,2 @@
+# Trailing slash so that project/target/ is ignored also
+target/
